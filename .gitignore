@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+edtech_dataset/
+.conda/
+.DS_Store
+Thumbs.db
+*.log
+best_model_p02.keras

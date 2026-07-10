@@ -1,11 +1,14 @@
 # Evolvance Content Tagger
-### Deep Learning Project 2 of 10 | CNN + Transfer Learning
+### Deep Learning Project | CNN + Transfer Learning
 
 A production-ready image classification system that automatically categorises
 educational content images into 5 categories using MobileNetV2 transfer learning.
 Built as part of a 10-project deep learning journey focused on EdTech applications.
 
----
+---DEMO--<img width="917" height="375" alt="image" src="https://github.com/user-attachments/assets/082be6b9-1b90-4d35-9cbe-e920b41635b2" />
+<img width="898" height="857" alt="image" src="https://github.com/user-attachments/assets/8bc91908-fc72-40ae-977a-1ca0ddf646d7" />
+
+
 
 ## What It Does
 
@@ -14,7 +17,8 @@ Upload any educational image and the model instantly classifies it into one of
 
 | Category | Description |
 |---|---|
-| Chart | Data visualizations - bar, line, pie charts |
+| Chart | Data visualizations - bar, line, pie charts |![Uploading image.png…]()
+
 | Diagram | Process diagrams - flowcharts, mindmaps, hierarchies |
 | Slide | Presentation slides - title layouts, bullet points |
 | Photo | Real-world photographs - classrooms, people, objects |
@@ -170,24 +174,6 @@ This is consistent with human visual perception of these two categories.
 - MobileNetV2's 7x7x1280 output perfectly separates visually distinct
   educational content categories
 
----
-
-## Part of a 10-Project Deep Learning Series
-
-| Project | Topic | Status |
-|---|---|---|
-| 01 | Neural Network from Scratch - Student Score Predictor | Complete |
-| 02 | CNN - Evolvance Content Tagger | Complete |
-| 03 | LSTM - Student Feedback Sentiment Analyzer | Up next |
-| 04 | DNN - Student Dropout Predictor | Planned |
-| 05 | Transformer - Auto Quiz Generator | Planned |
-| 06 | Whisper + BART - Lecture Transcriber | Planned |
-| 07 | CNN + CTC - Handwriting Recognition | Planned |
-| 08 | Autoencoder - Learning Path Recommender | Planned |
-| 09 | RAG - AI Tutor Chatbot | Planned |
-| 10 | Multi-modal - Course Quality Analyzer | Planned |
-
----
 
 ## Author
 

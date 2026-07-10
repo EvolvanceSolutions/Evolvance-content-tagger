@@ -5,7 +5,11 @@ A production-ready image classification system that automatically categorises
 educational content images into 5 categories using MobileNetV2 transfer learning.
 Built as part of a 10-project deep learning journey focused on EdTech applications.
 
----DEMO--<img width="917" height="375" alt="image" src="https://github.com/user-attachments/assets/082be6b9-1b90-4d35-9cbe-e920b41635b2" />
+---DEMO--
+<img width="917" height="375" alt="image" src="https://github.com/user-attachments/assets/082be6b9-1b90-4d35-9cbe-e920b41635b2" />
+
+
+
 <img width="898" height="857" alt="image" src="https://github.com/user-attachments/assets/8bc91908-fc72-40ae-977a-1ca0ddf646d7" />
 
 
